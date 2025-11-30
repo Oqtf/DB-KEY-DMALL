@@ -46,5 +46,13 @@
     "activated": false,
     "activatedAt": null,
     "hwid": null
+  },
+  "79FC1-AD66E-798B3-48FFD": {
+    "username": "Proxy",
+    "createdAt": 1764536824812,
+    "expiresAt": 1765141624812,
+    "activated": false,
+    "activatedAt": null,
+    "hwid": null
   }
 }
