@@ -52,7 +52,7 @@
     "createdAt": 1764536824812,
     "expiresAt": 1765141624812,
     "activated": false,
-    "activatedAt": null,
+    "activatedAt": 1764536824812,
     "hwid": null
   }
 }
