@@ -1,0 +1,18 @@
+{
+  "B57F6-2F108-1926A-80D43": {
+    "username": "test",
+    "createdAt": 1764512588887,
+    "expiresAt": 1764598988887,
+    "activated": true,
+    "activatedAt": 1764512619583,
+    "hwid": "25b75ef6d09abaf2918156779fe970fb"
+  },
+  "979B1-C2E71-B7602-B585F": {
+    "username": "Oqtf",
+    "createdAt": 1764513462970,
+    "expiresAt": null,
+    "activated": false,
+    "activatedAt": null,
+    "hwid": null
+  }
+}
