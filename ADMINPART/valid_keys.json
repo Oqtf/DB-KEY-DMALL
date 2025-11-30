@@ -22,5 +22,21 @@
     "activated": false,
     "activatedAt": null,
     "hwid": null
+  },
+  "33A72-F9690-BC1E1-54F31": {
+    "username": "FINAL",
+    "createdAt": 1764515783366,
+    "expiresAt": null,
+    "activated": false,
+    "activatedAt": null,
+    "hwid": null
+  },
+  "1C28F-C552F-0FF0E-90B70": {
+    "username": "TTTTTTTTTT",
+    "createdAt": 1764515954426,
+    "expiresAt": 1764602354426,
+    "activated": false,
+    "activatedAt": null,
+    "hwid": null
   }
 }
