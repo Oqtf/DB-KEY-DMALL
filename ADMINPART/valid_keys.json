@@ -11,9 +11,9 @@
     "username": "Oqtf",
     "createdAt": 1764513462970,
     "expiresAt": null,
-    "activated": false,
-    "activatedAt": null,
-    "hwid": null
+    "activated": true,
+    "activatedAt": 1764523546455,
+    "hwid": "test-hwid-12345"
   },
   "8A863-AE5B4-4E33A-1CCE4": {
     "username": "TESTTT",
@@ -26,6 +26,14 @@
   "33A72-F9690-BC1E1-54F31": {
     "username": "FINAL",
     "createdAt": 1764515783366,
+    "expiresAt": null,
+    "activated": false,
+    "activatedAt": null,
+    "hwid": null
+  },
+  "502DA-CCC7C-B5097-1B439": {
+    "username": "Namorontop",
+    "createdAt": 1764525019148,
     "expiresAt": null,
     "activated": false,
     "activatedAt": null,
