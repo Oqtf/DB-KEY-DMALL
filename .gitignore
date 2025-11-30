@@ -1,20 +1,9 @@
-# ⚠️ IGNORER TOUT LE CODE - Seul valid_keys.json doit être sur GitHub
+# ⚠️ SEUL valid_keys.json doit être sur GitHub
 
-# Tout le code source
-*.js
-*.bat
-*.md
+# Ignorer TOUT sauf exceptions
+*
 
-# Tous les JSON SAUF valid_keys.json
-*.json
+# Exceptions (! = autoriser)
+!.gitignore
+!ADMINPART/
 !ADMINPART/valid_keys.json
-
-# Dépendances
-node_modules/
-
-# Fichiers de licence locaux
-.license
-
-# Fichiers système
-.DS_Store
-Thumbs.db
