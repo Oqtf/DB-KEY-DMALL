@@ -1,0 +1,24 @@
+# Fichiers de licence (NE PAS PARTAGER)
+.license
+# ADMINPART/valid_keys.json  ← Commenté pour permettre l'upload sur GitHub
+ADMINPART/.license
+
+# Dépendances
+node_modules/
+
+# Progression
+progress.json
+CLIENTPART/progress.json
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Packages générés
+client_package_*/
+
+# Backups
+backups/
