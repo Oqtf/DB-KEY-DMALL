@@ -38,5 +38,13 @@
     "activated": false,
     "activatedAt": null,
     "hwid": null
+  },
+  "19DF0-F6054-B4071-242DD": {
+    "username": "EEE",
+    "createdAt": 1764516058928,
+    "expiresAt": 1764602458928,
+    "activated": false,
+    "activatedAt": null,
+    "hwid": null
   }
 }
