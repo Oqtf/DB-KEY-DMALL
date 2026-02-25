@@ -1,9 +1,4 @@
-# ⚠️ SEUL valid_keys.json doit être sur GitHub
 
-# Ignorer TOUT sauf exceptions
-*
-
-# Exceptions (! = autoriser)
 !.gitignore
 !ADMINPART/
 !ADMINPART/valid_keys.json
